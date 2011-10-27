@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="Robert George" />
+        <field key="version" value="1.7" />
+        <field key="description" value="Stackoverflow search plugin. Plugin allows searching stackoverflow database and importing the results into elgg. This plugin depends on answers plugin and http_inflate pecl module." />
+        <field key="website" value="http://www.neevtech.com/" />
+        <field key="copyright" value="" />
+        <field key="licence" value="GNU Public License version 2" />
+        <field key="elgg_version" value="2010030101" />
+</plugin_manifest>
