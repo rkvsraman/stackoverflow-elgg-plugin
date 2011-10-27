@@ -1,0 +1,17 @@
+Elgg plugin for searching stackoverflow and importing results.
+----------------------------------------------------------------
+This is a plugin for elgg - the open source networking engine. 
+
+Plugin allows users to search the stackoverflow database and see matching
+results on their elgg site. The user can then get the details from the 
+stackoverflow site for each search result. The plugin also allows the user
+to import the question and its answers along with the comments into their
+elgg site.
+
+Dependencies:
+-----------
+1: Elgg 1.7
+2: Answers plugin for elgg
+3: http_inflate pecl module
+
+
